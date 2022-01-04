@@ -1,0 +1,32 @@
+input[type="text"] {
+  width: 93%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: skyblue;
+  color: black;
+  font-family: monospace;
+  font-size: 2rem;
+}
+
+#enter {
+  width: 5%;
+  height: 100%;
+  padding: 12px 20px;
+  margin: 6px 0;
+  background-color: blue;
+  color: white;
+  font-family: monospace;
+  font-size: 2rem;
+}
+
+body {
+  background-color: #2574bef1;
+  font-family: monospace;
+}
+
+#text {
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+}
