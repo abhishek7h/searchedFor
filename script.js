@@ -3,6 +3,5 @@ document.getElementById("enter").onclick = function () {
 
   queryR = document.getElementById("query").value;
 
-  document.getElementById("text").textContent =
-    document.getElementById("text").textContent + queryR;
+  document.getElementById("text").textContent = queryR;
 };
